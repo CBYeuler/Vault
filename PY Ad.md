@@ -1,0 +1,9 @@
+  - [[OOP]]
+  - [[Meta Classes]]
+  - Context Managers
+  - Iterators
+  - Asynch programming
+  - global interpreter lock (python)
+  - multithreading
+  - modules and lib
+  - DSA

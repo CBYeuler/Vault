@@ -1,0 +1,3 @@
+  - how to create tables
+  - how to insert values
+  - how to run advances queries on database

@@ -1,0 +1,6 @@
+  - what are tokens 
+  - what is a jwt token
+  - what is OAuth
+  - how do you secure an API
+  - Rate limiting
+  - **Pydantic**

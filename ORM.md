@@ -1,0 +1,3 @@
+  - SQLAlchemy
+  - Database Design Concepts
+  - Linux & Command Line

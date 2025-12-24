@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Everforest",
+  "enabledCssSnippets": [
+    "cornell",
+    "banner",
+    "theme-bluetopaz",
+    "theme-default-and-others",
+    "theme-minimal",
+    "theme-prism",
+    "tufte-sidenotes",
+    "zcornell-hacks",
+    "zLearningVault"
+  ]
+}
