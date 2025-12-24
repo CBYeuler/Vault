@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP Basics.md",
+                "file": "OOP/OOP Basics.md",
                 "mode": "preview",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -180,26 +180,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b2b2ca4fd5f65dd1",
   "lastOpenFiles": [
-    "Inheritance.md",
-    "OOP.md",
-    "OOP Basics.md",
-    "Class Variables.md",
-    "What is HTTP.md",
-    "Decorators.md",
+    "OOP/OOP.md",
+    "OOP/Class Variables.md",
+    "OOP/Abstract Classes.md",
+    "OOP/Multiple Inheritence.md",
+    "OOP/Inheritance.md",
+    "OOP/OOP Basics.md",
+    "pika-1704454485908-2x.svg",
+    "Other Concepts/SQL.md",
+    "Other Concepts/What is HTTP.md",
+    "Other Concepts",
     "PY Ad.md",
+    "OOP",
+    "Other Concepts/Decorators.md",
     "roadmap be.md",
-    "Deployement.md",
+    "Other Concepts/Deployement.md",
     "Untitled",
-    "ORM.md",
-    "SQL.md",
-    "DataBases.md",
-    "Auth.md",
-    "API's.md",
-    "pika-1704454485908-2x.svg"
+    "Other Concepts/ORM.md",
+    "Other Concepts/DataBases.md",
+    "Other Concepts/Auth.md",
+    "Other Concepts/API's.md"
   ]
 }
